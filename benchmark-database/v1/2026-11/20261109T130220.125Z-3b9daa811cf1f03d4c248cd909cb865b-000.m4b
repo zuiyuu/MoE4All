@@ -1,0 +1,15 @@
+上传步骤：
+1. 在这个编辑框内按 Ctrl+A，全选并删除本提示。
+2. 按 Ctrl+V，粘贴完整的 .m4b 或 .m4e 报告文本。
+3. 点击页面右上角的 Commit changes...（无写权限时可能显示 Propose changes）。
+4. 选择新建分支（不要直接提交 main），确认提交，然后点击 Create pull request。
+5. 检查标题与文件后，再点击一次 Create pull request，即完成上传。
+
+Upload steps:
+1. Press Ctrl+A in this editor to select and remove this instruction.
+2. Press Ctrl+V to paste the complete .m4b or .m4e report text.
+3. Click Commit changes... at the upper right (it may say Propose changes without write access).
+4. Choose a new branch (not a direct commit to main), confirm, then click Create pull request.
+5. Review the title and file, then click Create pull request again to finish.
+macOS 请使用 Cmd+A / Cmd+V。On macOS, use Cmd+A / Cmd+V.
+建议分支名 / Suggested branch: community/benchmark/603853a5fda15f8de7e5fecad42beaa53281945374d28b6f42d5f0238046c169
